@@ -69,3 +69,4 @@ Total Trading Volume by Ticker (Bar Chart)
 
 
 Volume vs. Closing Price (Scatter Plot) 
+![Image Alt](https://github.com/Srujan-hash/Stock-Market-data-analysis-project/blob/dc7055a56260a189851931397ff436bf663bad25/WhatsApp%20Image%202025-10-05%20at%2021.36.14_85690248.jpg)
